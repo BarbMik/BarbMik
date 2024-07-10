@@ -1,7 +1,7 @@
 - 🌸 Hi, I’m @BarbMik
-- 👀 Ever since my first statistics module at uni, I have been pasisonate about open source languages, namely Python and R.
-- 🌱 I’m currently experimenting with the {Shiny} R package to create beautiful and functional apps
-- 💞️ I’m looking to collaborate on shiny applications and R packages.
+- 💪 Addicted to data and statistics
+- 💖 Enthusiastic R Shiny developer
+- 🎉 Polyglot programming: Python | R  | SAS | CSS & HTML 
 - 🎖️ A fun personal project I am working on at the moment is creating an image recognition shiny app which can recognize illnesses on tea leaves. Yes, I really love tea. 🍵
 - 📫 How to reach me --> work email: barbara.mikulasova@katalyzedata.com
 
